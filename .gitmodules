@@ -1,0 +1,27 @@
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = git://github.com/mattn/zencoding-vim.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "closetag.vim"]
+	path = closetag.vim
+	url = git://github.com/vim-scripts/closetag.vim.git
+[submodule "vim-racket"]
+	path = vim-racket
+	url = git://github.com/wlangstroth/vim-racket.git
+[submodule "VIM-Haskell"]
+	path = VIM-Haskell
+	url = git://github.com/kevinstreit/VIM-Haskell.git
+[submodule "MatchTag"]
+	path = MatchTag
+	url = git://github.com/gregsexton/MatchTag.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "vim-jst"]
+	path = vim-jst
+	url = git://github.com/briancollins/vim-jst.git
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
