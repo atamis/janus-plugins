@@ -25,3 +25,9 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "vim-buffergator"]
+	path = vim-buffergator
+	url = git://github.com/jeetsukumaran/vim-buffergator.git
+[submodule "quicktask"]
+	path = quicktask
+	url = https://github.com/aaronbieber/quicktask.git
