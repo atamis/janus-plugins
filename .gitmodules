@@ -1,33 +1,33 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
-	url = git://github.com/mattn/zencoding-vim.git
+	url = https://github.com/mattn/zencoding-vim.git
 [submodule "delimitMate"]
 	path = delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
 [submodule "closetag.vim"]
 	path = closetag.vim
-	url = git://github.com/vim-scripts/closetag.vim.git
+	url = https://github.com/vim-scripts/closetag.vim.git
 [submodule "vim-racket"]
 	path = vim-racket
-	url = git://github.com/wlangstroth/vim-racket.git
+	url = https://github.com/wlangstroth/vim-racket.git
 [submodule "VIM-Haskell"]
 	path = VIM-Haskell
-	url = git://github.com/kevinstreit/VIM-Haskell.git
+	url = https://github.com/kevinstreit/VIM-Haskell.git
 [submodule "MatchTag"]
 	path = MatchTag
-	url = git://github.com/gregsexton/MatchTag.git
+	url = https://github.com/gregsexton/MatchTag.git
 [submodule "vim-javascript"]
 	path = vim-javascript
-	url = git://github.com/pangloss/vim-javascript.git
+	url = https://github.com/pangloss/vim-javascript.git
 [submodule "vim-jst"]
 	path = vim-jst
-	url = git://github.com/briancollins/vim-jst.git
+	url = https://github.com/briancollins/vim-jst.git
 [submodule "vim-powerline"]
 	path = vim-powerline
-	url = git://github.com/Lokaltog/vim-powerline.git
+	url = https://github.com/Lokaltog/vim-powerline.git
 [submodule "vim-buffergator"]
 	path = vim-buffergator
-	url = git://github.com/jeetsukumaran/vim-buffergator.git
+	url = https://github.com/jeetsukumaran/vim-buffergator.git
 [submodule "quicktask"]
 	path = quicktask
 	url = https://github.com/aaronbieber/quicktask.git
@@ -46,3 +46,15 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips.git
